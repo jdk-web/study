@@ -69,3 +69,8 @@ OOP(Object-Oriented Programming)란 객체와 객체의 유기적인 상호작�
 
 장점 : 코드 재사용, 유지 보수 
 
+
+<h1> 6. SQL 데이터 묶기</h1>
+https://verdana1012.tistory.com/entry/MySQL-or-MariaDB-%EC%97%90%EC%84%9C-row-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-column-%EC%9C%BC%EB%A1%9C-%EB%B3%80%EA%B2%BD%ED%95%98%EA%B8%B0<BR>
+
+https://lightblog.tistory.com/154
